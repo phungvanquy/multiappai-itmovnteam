@@ -1,0 +1,10 @@
+# Dependencies
+node_modules
+
+# Build Output
+.vitepress/cache
+.vitepress/dist
+
+# Local cache
+.DS_Store
+.vitepress/.cache
