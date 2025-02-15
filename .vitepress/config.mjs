@@ -3,7 +3,7 @@ import { defineConfig } from "vitepress";
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   title: "ITMOvnteam",
-  description: "A VitePress Site",
+  description: "MultiAppAI - ITMOvnteam",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     logo: "/itmovnteam.svg",
@@ -34,9 +34,9 @@ export default defineConfig({
       {
         text: "Pricing",
         items: [
-          { text: "Bảng giá model", link: "/pages/pricing/pricing" },
+          { text: "Chi phí & Bảng giá model", link: "/pages/pricing/pricing" },
           {
-            text: "Nạp tiền và theo dõi số dư",
+            text: "Nạp tiền & theo dõi số dư",
             link: "/pages/pricing/recharged",
           },
         ],

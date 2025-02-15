@@ -7,7 +7,7 @@ hero:
   text: "Unleash the Potential of Advanced AI"
   tagline: "Harness the power of AI with our multimodel API, optimizing your budget across diverse applications."
   image:
-    src: "/logo.png"
+    src: "/ai.svg"
   actions:
     - theme: brand
       text: ℹ Giới thiệu

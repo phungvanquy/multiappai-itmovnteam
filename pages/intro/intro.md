@@ -2,6 +2,8 @@
 
 **MultiAppAI** là một dịch vụ do **ITMOvnteam** phát triển, giúp tích hợp và sử dụng các mô hình AI vào ứng dụng thông qua API một cách dễ dàng.
 
+> **ITMOvnteam** là nhóm startup bao gốm các sinh viên và NCS Việt Nam chuyên ngành CNTT đã và đang học tập tại trường Đại học ITMO, LB Nga.
+
 ## Lợi ích của việc sử dụng API
 
 - **Tiện lợi và tiết kiệm chi phí**: Việc tích hợp AI qua API giúp giảm thiểu chi phí và vô cùng đơn giản. API từ ITMOvnteam có thể giúp tiết kiệm hơn 25% chi phí so với các API chính thức. **Đặc biệt**, ITMOvnteam có cung cấp các mô hình AI miễn phí nhưng rất mạnh mẽ, được kết hợp từ Google, MistralAI và nhiều nhà cung cấp lớn khác.

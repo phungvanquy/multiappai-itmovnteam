@@ -11,7 +11,7 @@
    - Gửi form và chờ phản hồi từ đội ngũ admin
 
 2. **Bắt đầu sử dụng**
-   - Sau khi nhận được API key từ admin, các bạn có thể sử dụng nó để tích hợp vào ứng dụng mong muốn
+   - Sau khi nhận được API key từ admin, các bạn có thể sử dụng nó để tích hợp vào ứng dụng mong muốn [->Apps tương thích](#ung-dung-tuong-thich)
    - Thông thường đa số các ứng dụng hiện nay yêu cầu 2 thông tin chính để có thể tích hợp API đó là: `API_KEY` và `BASE_URL`.
 
 > `API_KEY` sẽ có dạng: `sk-proj-1234567890...`
@@ -27,7 +27,7 @@
 Multiappai hỗ trợ tích hợp với tất cả các ứng dụng cho phép sử dụng custom model.
 Một vài ứng dụng phổ biến như:
 
-| Ứng dụng | Hướng dẫn tích hợp                                                         |
+| Ứng dụng | Hướng dẫn tích hợp và sử dụng API                                          |
 | -------- | -------------------------------------------------------------------------- |
 | Sider    | [Xem hướng dẫn](https://multiappai.itmovnteam.com)                         |
 | Chatbox  | [Xem hướng dẫn](https://multiappai.itmovnteam.com)                         |

@@ -13,7 +13,7 @@
 
 > **Lưu ý**:
 >
-> - Phí duy trì hệ thống và đội ngũ hỗ trợ = 1 USD/tháng
+> - Phí duy trì hệ thống và đội ngũ hỗ trợ = 1 USD$/tháng
 > - Tokens là các đơn vị cơ bản mà mô hình ngôn ngữ lớn (LLM) sử dụng để xử lý và hiểu ngôn ngữ. Một token có thể là một từ, một phần của từ, hoặc thậm chí là một ký tự.
 > - Bảng giá token được tính theo đơn vị USD$/1_triệu_tokens
 
@@ -63,17 +63,10 @@
         </tr>
         <!-- Anthropic Models -->
         <tr style="background-color: #f8f9fa;">
-            <td><strong>Anthropic</strong></td>
+            <td><strong>Anthropic (ClaudeAI)</strong></td>
             <td><span style="color: red">claude-3.5-sonnet</span></td>
             <td>$2.00</td>
             <td>$8.50</td>
-        </tr>
-        <!-- Meta Models -->
-        <tr>
-            <td><strong>Meta</strong></td>
-            <td><span style="color: red">llama-3.1-instruct-405B</span></td>
-            <td>$1.50</td>
-            <td>$6.00</td>
         </tr>
         <!-- Deepseek Models -->
         <tr style="background-color: #f8f9fa;">
