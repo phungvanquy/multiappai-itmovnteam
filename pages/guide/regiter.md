@@ -19,25 +19,23 @@
 > `BASE_URL` sẽ có dạng: `https://multiappai-api.itmovnteam.com/v1` hoặc `https://multiappai-api.itmovnteam.com`
 
 3. **Theo dõi mức sử dụng và trạng thái hoạt động các model**
-   - Model AI sẽ có 2 loại: **Free** và **Trả phí** ([xem chi tiết](/pages/pricing/pricing)). Để theo dõi mức sử dụng và số dư tài khoản hoặc nạp tiền, các bạn có thể xem [tại đây](/pages/pricing/recharged)
+   - Model AI sẽ có 2 loại: **Free** và **Trả phí** ([xem giá chi tiết](/pages/pricing/pricing)). Để theo dõi mức sử dụng và số dư tài khoản hoặc nạp tiền, các bạn có thể xem [tại đây](/pages/pricing/recharged)
    - Để theo dõi trạng thái hoạt động của các model, các bạn có thể xem [tại đây](/pages/guide/modelstatus)
 
-## Ứng dụng tương thích
+## Các ứng dụng tương thích
 
-Multiappai hỗ trợ tích hợp với tất cả các ứng dụng cho phép sử dụng custom model.
+Multiappai hỗ trợ tích hợp với tất cả các ứng dụng cho phép sử dụng custom model theo format của **OpenAI**.
 Một vài ứng dụng phổ biến như:
 
 | Ứng dụng | Hướng dẫn tích hợp và sử dụng API                                          |
 | -------- | -------------------------------------------------------------------------- |
-| Sider    | [Xem hướng dẫn](https://multiappai.itmovnteam.com)                         |
+| Sider    | [Xem hướng dẫn](https://youtu.be/LbHnQr956Ls?si=I1Bha_1Chf18MTxM)          |
 | Chatbox  | [Xem hướng dẫn](https://multiappai.itmovnteam.com)                         |
 | CursorAI | [Xem hướng dẫn](https://github.com/bilal77511/custom-models-in-cursor-IDE) |
-| Cline    | [Xem hướng dẫn](https://multiappai.itmovnteam.com)                         |
-| Nextchat | [Xem hướng dẫn](https://multiappai.itmovnteam.com)                         |
+| Cline    | [Liên hệ admin](https://multiappai.itmovnteam.com)                         |
+| Nextchat | [Liên hệ admin](https://multiappai.itmovnteam.com)                         |
 | ...      | ...                                                                        |
 
-## Dịch vụ đặc biệt
+## WebChatAI - ITMOvnteam
 
-Chúng mình cung cấp trang web chatbox riêng tại [chatgpt.itmovnteam.com](https://chatgpt.itmovnteam.com), được duy trì bởi ITMOvnteam. Mọi người có thể sử dụng `API key` của mình trên ứng dụng này một cách thuận tiện.
-
-_Lưu ý: Vui lòng giữ API key bảo mật và không chia sẻ với người khác để đảm bảo an toàn cho tài khoản của bạn._
+Chúng mình cung cấp trang web chatbox riêng tại [aichat.itmovnteam.com](https://chatgpt.itmovnteam.com). Mọi người có thể sử dụng **API key** của mình trên ứng dụng này một cách thuận tiện.

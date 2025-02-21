@@ -86,4 +86,4 @@
 
 > <div align="left"><strong>Thông tin thêm về Model ITMOvnteam</strong>:</div>
 >
-> Model `itmovnteam` và `itmovnteam-backup` là các models AI được tổng hợp bởi <b>ITMOvnteam</b>, tích hợp các model hàng đầu như Google Gemini (flash|pro), Meta Llama và Mistral. Các model này không chỉ có hiệu suất cao, độ ổn định tốt mà còn có khả năng xử lý hình ảnh. Người dùng có thể sử dụng không giới hạn với rate limit ~10 request/phút để đảm bảo an toàn hệ thống.
+> Model `itmovnteam` và `itmovnteam-backup` là các models AI được tổng hợp bởi <b>ITMOvnteam</b>, tích hợp các model mới nhất từ Google Gemini (Flash & Pro), Deepseek, MistralAI,.. Các model này không chỉ có hiệu suất cao, độ ổn định tốt mà còn có khả năng phân tích hình ảnh. Người dùng có thể sử dụng không giới hạn với rate limit ~10 request/phút để đảm bảo an toàn hệ thống.

@@ -1,8 +1,8 @@
-# Nạp Tiền và theo dõi số dư
+# Nạp tiền & Theo dõi số dư
 
 ## Nạp Tiền
 
-Để nạp tiền các bạn vui lòng liên hệ với admin thông qua [contact](https://t.me/multiappai)
+Để nạp tiền các bạn vui lòng liên hệ với admin thông qua [contact](https://t.me/multiappai_itmovnteam)
 
 ## Theo dõi số dư
 
