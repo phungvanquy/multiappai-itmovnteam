@@ -12,8 +12,11 @@ hero:
     - theme: brand
       text: 📕 Giới thiệu & Hướng dẫn
       link: /pages/intro/intro
+    - theme: brand
+      text: 🔔 Đăng kí
+      link: /pages/guide/register
     - theme: alt
-      text: 🔎 API Check
+      text: 🔎 Check tài khoản
       link: https://multiappai.itmovnteam.com/apicheck
     - theme: alt
       text: ⏳ Model Status
@@ -26,7 +29,7 @@ hero:
       link: https://aichat.itmovnteam.com
     - theme: alt
       text: 🎮 Ứng dụng tương thích
-      link: /pages/guide/regiter.html#cac-ung-dung-tuong-thich
+      link: /pages/guide/register.html#cac-ung-dung-tuong-thich
 
 features:
   - title: Trending
@@ -42,6 +45,6 @@ features:
 <p style="text-align: center;">Get a quick look at the product! More in-depth videos soon.</p>
 
 <div style="width: 100%; padding-bottom: 56.25%; position: relative; border-radius: 8px; overflow: hidden;">
-  <iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://www.youtube.com/embed/LbHnQr956Ls?si=L8fRSI5bWIunvRoz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
+  <iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://youtu.be/LJMEsTPkflw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
   </iframe>
 </div>

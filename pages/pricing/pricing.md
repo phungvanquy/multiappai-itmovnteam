@@ -37,21 +37,16 @@
         </tr>
     </thead>
     <tbody>
-        <!-- ITMOVN Models -->
+        <!-- ITMOvnteam Models -->
         <tr style="background-color: #f8f9fa;">
-            <td rowspan="2"><strong>ITMOvnteam</strong></td>
+            <td rowspan="1"><strong>ITMOvnteam</strong></td>
             <td><span style="color: red">itmovnteam</span></td>
-            <td>Free</td>
-            <td>Free</td>
-        </tr>
-        <tr style="background-color: #f8f9fa;">
-            <td><span style="color: red">itmovnteam-backup</span></td>
             <td>Free</td>
             <td>Free</td>
         </tr>
         <!-- OpenAI Models -->
         <tr style="background-color: #f8f9fa;">
-            <td rowspan="2"><strong>OpenAI</strong></td>
+            <td rowspan="4"><strong>OpenAI</strong></td>
             <td><span style="color: red">gpt-4o</span></td>
             <td>$1.75</td>
             <td>$8.50</td>
@@ -61,12 +56,27 @@
             <td>$0.15</td>
             <td>$0.06</td>
         </tr>
+        <tr style="background-color: #f8f9fa;">
+            <td><span style="color: red">gpt-o1</span></td>
+            <td>$7.50</td>
+            <td>$30.0</td>
+        </tr>
+        <tr style="background-color: #f8f9fa;">
+            <td><span style="color: red">gpt-o3-mini</span></td>
+            <td>$0.15</td>
+            <td>$0.06</td>
+        </tr>
         <!-- Anthropic Models -->
         <tr style="background-color: #f8f9fa;">
-            <td><strong>Anthropic (ClaudeAI)</strong></td>
+            <td rowspan="2"><strong>Anthropic (ClaudeAI)</strong></td>
+            <td><span style="color: red">claude-3.7-sonnet</span></td>
+            <td>$1.50</td>
+            <td>$7.50</td>
+        </tr>
+        <tr style="background-color: #f8f9fa;">
             <td><span style="color: red">claude-3.5-sonnet</span></td>
-            <td>$2.00</td>
-            <td>$8.50</td>
+            <td>$1.50</td>
+            <td>$7.50</td>
         </tr>
         <!-- Deepseek Models -->
         <tr style="background-color: #f8f9fa;">
@@ -84,6 +94,6 @@
 
 </table>
 
-> <div align="left"><strong>Thông tin thêm về Model ITMOvnteam</strong>:</div>
+> <div align="left"><strong>Thông tin thêm về Model "itmovnteam"</strong>:</div>
 >
-> Model `itmovnteam` và `itmovnteam-backup` là các models AI được tổng hợp bởi <b>ITMOvnteam</b>, tích hợp các model mới nhất từ Google Gemini (Flash & Pro), Deepseek, MistralAI,.. Các model này không chỉ có hiệu suất cao, độ ổn định tốt mà còn có khả năng phân tích hình ảnh. Người dùng có thể sử dụng không giới hạn với rate limit ~10 request/phút để đảm bảo an toàn hệ thống.
+> `itmovnteam` là model AI được tổng hợp bởi **ITMOvnteam**, tích hợp các models từ nhiều Provider khác nhau. Nhờ quỹ API được đóng góp từ cộng đồng và một số kĩ thuật reverse API nên chúng mình mới có đủ tài nguyên để triển khai **miễn phí** model này cho mọi người. `itmovnteam` có hiệu suất tốt, độ ổn định cao và có khả năng phân tích hình ảnh. Người dùng có thể sử dụng không giới hạn với rate limit ~10 request/phút để đảm bảo an toàn hệ thống.
