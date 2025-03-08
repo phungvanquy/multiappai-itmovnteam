@@ -13,7 +13,7 @@
 
 > **Lưu ý**:
 >
-> - Phí duy trì hệ thống và đội ngũ hỗ trợ = 1 USD$/tháng
+> - Phí duy trì hệ thống và đội ngũ hỗ trợ = 1$/tháng
 > - Tokens là các đơn vị cơ bản mà mô hình ngôn ngữ lớn (LLM) sử dụng để xử lý và hiểu ngôn ngữ. Một token có thể là một từ, một phần của từ, hoặc thậm chí là một ký tự.
 > - Bảng giá token được tính theo đơn vị USD$/1_triệu_tokens
 

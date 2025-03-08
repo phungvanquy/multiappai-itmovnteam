@@ -2,7 +2,7 @@ import { defineConfig } from "vitepress";
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  title: "ITMOvnteam",
+  title: "MultiAppAI",
   description: "MultiAppAI - ITMOvnteam",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
@@ -17,8 +17,7 @@ export default defineConfig({
       {
         text: "Intro",
         items: [
-          { text: "Giới thiệu chung", link: "/pages/intro/intro" },
-          // { text: "Thông tin quan trọng khác", link: "/pages/intro/other" },
+          { text: "Giới thiệu chung & Contacts", link: "/pages/intro/intro" },
         ],
       },
       {
@@ -26,7 +25,7 @@ export default defineConfig({
         items: [
           { text: "Đăng kí & Sử dụng", link: "/pages/guide/register" },
           {
-            text: "Theo dõi status các models",
+            text: "Theo dõi trạng thái hoạt động",
             link: "/pages/guide/modelstatus",
           },
         ],
@@ -36,14 +35,16 @@ export default defineConfig({
         items: [
           { text: "Chi phí & Bảng giá model", link: "/pages/pricing/pricing" },
           {
-            text: "Nạp tiền & Theo dõi số dư",
+            text: "Theo dõi TK & Nạp tiền",
             link: "/pages/pricing/recharged",
           },
         ],
       },
     ],
 
-    socialLinks: [{ icon: "telegram", link: "https://t.me/vpnitmovnteam" }],
+    socialLinks: [
+      { icon: "telegram", link: "https://t.me/multiappai_itmovnteam" },
+    ],
 
     footer: {
       copyright: "Copyright © 2025 | ITMOvnteam",

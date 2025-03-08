@@ -27,14 +27,14 @@
 Multiappai hỗ trợ tích hợp với tất cả các ứng dụng cho phép sử dụng custom model theo format của **OpenAI**.
 Một vài ứng dụng phổ biến như:
 
-| Ứng dụng  | Hướng dẫn setup và sử dụng API                                                                   |
-| --------- | ------------------------------------------------------------------------------------------------ |
-| ChatboxAI | [Xem hướng dẫn](https://github.com/itmovnteam/multiappai-compatible-apps/blob/main/ChatboxAI.md) |
-| Sider     | [Xem hướng dẫn](https://github.com/itmovnteam/multiappai-compatible-apps/blob/main/SiderAI.md)   |
-| CursorAI  | [Liên hệ admin](https://t.me/multiappai_itmovnteam)                                              |
-| Cline     | [Liên hệ admin](https://t.me/multiappai_itmovnteam)                                              |
-| n8n       | [Liên hệ admin](https://t.me/multiappai_itmovnteam)                                              |
-| ...       | ...                                                                                              |
+| Ứng dụng      | Hướng dẫn setup và sử dụng API                                                                   |
+| ------------- | ------------------------------------------------------------------------------------------------ |
+| **ChatboxAI** | [Xem hướng dẫn](https://github.com/itmovnteam/multiappai-compatible-apps/blob/main/ChatboxAI.md) |
+| **Sider**     | [Xem hướng dẫn](https://github.com/itmovnteam/multiappai-compatible-apps/blob/main/SiderAI.md)   |
+| CursorAI      | [Liên hệ admin](https://t.me/multiappai_itmovnteam)                                              |
+| Cline         | [Liên hệ admin](https://t.me/multiappai_itmovnteam)                                              |
+| n8n           | [Liên hệ admin](https://t.me/multiappai_itmovnteam)                                              |
+| ...           | ...                                                                                              |
 
 ## WebChatAI - ITMOvnteam
 

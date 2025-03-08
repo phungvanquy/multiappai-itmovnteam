@@ -4,12 +4,4 @@
 
 [https://modelstatus.itmovnteam.com](https://modelstatus.itmovnteam.com)
 
-## Tính năng
-
-- Theo dõi tình trạng uptime của các model AI
-- Cập nhật trạng thái theo thời gian thực
-- Hiển thị thông tin về tình trạng hoạt động
-
-## Lưu ý
-
-Khi phát hiện model đang gặp sự cố, bạn có thể chủ động chuyển sang sử dụng model khác để tránh việc gián đoạn công việc.
+> **Lưu ý:** Khi phát hiện một model gặp sự cố, bạn có thể chủ động chuyển sang sử dụng model khác để tránh việc gián đoạn công việc.

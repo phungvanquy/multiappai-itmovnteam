@@ -7,6 +7,12 @@
 
 ## Lợi ích của việc sử dụng API
 
-- **Tiện lợi và tiết kiệm chi phí**: Việc tích hợp AI qua API giúp giảm thiểu chi phí và vô cùng đơn giản. API từ ITMOvnteam có thể giúp tiết kiệm hơn 25% chi phí so với các API chính thức. **Đặc biệt**, ITMOvnteam có cung cấp các mô hình AI miễn phí nhưng rất mạnh mẽ, được kết hợp từ Google, MistralAI và nhiều nhà cung cấp lớn khác.
+- **Tiện lợi và tiết kiệm chi phí**: Việc sử dụng AI thông qua API giúp bạn có thể tiếp cận các model AI **plus/pro** với chi phí thấp thay vì phải mua gói theo tháng với giá cao. API từ ITMOvnteam có thể giúp tiết kiệm đến 25% chi phí so với giá API chính thức từ nhiều nhà cung cấp khác nhau như OpenAI, ClaudeAI,... **Đặc biệt**, ITMOvnteam có cung cấp model AI miễn phí nhưng vô cùng chất lượng.
 - **Đa dạng mô hình**: Cung cấp quyền truy cập vào nhiều mô hình AI tiên tiến như ChatGPT, Google Gemini, ClaudeAI, Deepseek,.. chỉ với một API key duy nhất.
-- **Bảo mật**: API cho phép sử dụng một số ứng dụng trực tiếp trên máy tính cá nhân, đảm bảo dữ liệu được lưu trữ an toàn trên thiết bị của người dùng.
+
+## Thông tin liên hệ
+
+Khi có câu hỏi hay bất cứ vấn đề gì khi sử dụng, các bạn vui lòng liên hệ:
+
+- **Email**: itmovnteam@gmail.com
+- **Channel Telegram**: https://t.me/multiappai_itmovnteam
