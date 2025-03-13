@@ -35,7 +35,7 @@ features:
   - title: Trending
     details: Sử dụng AI thông qua API đang trở thành xu hướng phổ biến nhờ tính tiện lợi và khả năng tiết kiệm chi phí đáng kể so với việc mua các gói dịch vụ cao cấp từ các nhà cung cấp khác.
   - title: Up-to-Date & Cost-Effective
-    details: Tiếp cận các model AI mới nhất với chi phí tiết kiệm từ 25-30% so với giá Offical khi sử dụng API từ ITMOvnteam.
+    details: Tiếp cận các model AI mới nhất với chi phí tiết kiệm từ 10-50% so với giá offical API khi sử dụng API từ ITMOvnteam.
   - title: Flexible Integration
     details: Dễ dàng tích hợp các model AI vào rất nhiều ứng dụng khác nhau chỉ với một API key duy nhất.
 ---
@@ -45,6 +45,6 @@ features:
 <p style="text-align: center;">Get a quick look at the product! More in-depth videos soon.</p>
 
 <div style="width: 100%; padding-bottom: 56.25%; position: relative; border-radius: 8px; overflow: hidden;">
-  <iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://www.youtube.com/embed/LJMEsTPkflw?si=PMn_2lI1Wz-4sSs3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
+  <iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://www.youtube.com/embed/a4Qy2fDBbyc?si=ncHkltr-BSqw-WJ7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
   </iframe>
 </div>

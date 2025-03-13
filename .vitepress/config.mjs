@@ -4,6 +4,9 @@ import { defineConfig } from "vitepress";
 export default defineConfig({
   title: "MultiAppAI",
   description: "MultiAppAI - ITMOvnteam",
+  head: [
+    ["link", { rel: "icon", type: "image/png", href: "/icons/itmovnteam.svg" }],
+  ],
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     logo: "/icons/itmovnteam.svg",

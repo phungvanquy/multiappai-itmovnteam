@@ -7,7 +7,7 @@
 
 ## Lợi ích của việc sử dụng API
 
-- **Tiện lợi và tiết kiệm chi phí**: Việc sử dụng AI thông qua API giúp bạn có thể tiếp cận các model AI **plus/pro** với chi phí thấp thay vì phải mua gói theo tháng với giá cao. API từ ITMOvnteam có thể giúp tiết kiệm đến 25% chi phí so với giá API chính thức từ nhiều nhà cung cấp khác nhau như OpenAI, ClaudeAI,... **Đặc biệt**, ITMOvnteam có cung cấp model AI miễn phí nhưng vô cùng chất lượng.
+- **Tiện lợi và tiết kiệm chi phí**: Việc sử dụng AI thông qua API giúp bạn có thể tiếp cận các model AI **plus/pro** với chi phí thấp thay vì phải mua gói theo tháng với giá cao. API từ ITMOvnteam có thể giúp tiết kiệm đến 50% chi phí so với giá API chính thức từ nhiều nhà cung cấp khác nhau như OpenAI, ClaudeAI,... **Đặc biệt**, ITMOvnteam có cung cấp một model **FREE** với hiệu suất rất tốt.
 - **Đa dạng mô hình**: Cung cấp quyền truy cập vào nhiều mô hình AI tiên tiến như ChatGPT, Google Gemini, ClaudeAI, Deepseek,.. chỉ với một API key duy nhất.
 
 ## Thông tin liên hệ
