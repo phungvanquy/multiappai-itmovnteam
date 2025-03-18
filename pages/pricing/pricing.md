@@ -25,8 +25,8 @@ Chúng mình có thể cung cấp gần như tất các loại model AI hiện n
 
 <table>
     <colgroup>
-        <col style="width: 20%">
-        <col style="width: 40%">
+        <col style="width: 15%">
+        <col style="width: 45%">
         <col style="width: 20%">
         <col style="width: 20%">
     </colgroup>
@@ -48,49 +48,63 @@ Chúng mình có thể cung cấp gần như tất các loại model AI hiện n
             <td>Free</td>
             <td>-</td>
         </tr>
+        <!-- Google Models -->
+        <tr style="background-color: #f8f9fa;">
+            <td rowspan="2"><strong>Google</strong></td>
+            <td><span style="color: red">gemini-2.0-flash-exp</span></td>
+            <td>Free</td>
+            <td>Free</td>
+            <td>(test)</td>
+        </tr>
+        <tr style="background-color: #f8f9fa;">
+            <td><span style="color: red">gemini-2.0-pro-exp</span></td>
+            <td>Free</td>
+            <td>Free</td>
+            <td>(test)</td>
+        </tr>
         <!-- OpenAI Models -->
         <tr style="background-color: #f8f9fa;">
             <td rowspan="4"><strong>OpenAI (ChatGPT)</strong></td>
             <td><span style="color: red">gpt-4o</span></td>
-            <td>$1.50</td>
-            <td>$6.00</td>
-            <td>40%</td>
+            <td><span style="color: #32CD32;">$1.50</span></td>
+            <td><span style="color: #32CD32;">$6.00</span></td>
+            <td><span style="color: #32CD32;">40%</span></td>
         </tr>
         <tr style="background-color: #f8f9fa;">
             <td><span style="color: red">gpt-4o-mini</span></td>
-            <td>$0.15</td>
-            <td>$0.06</td>
-            <td>50%</td>
+            <td><span style="color: #32CD32;">$0.15</span></td>
+            <td><span style="color: #32CD32;">$0.06</span></td>
+            <td><span style="color: #32CD32;">50%</span></td>
         </tr>
         <tr style="background-color: #f8f9fa;">
             <td><span style="color: red">o1-mini</span></td>
-            <td>$1.50</td>
-            <td>$6.00</td>
-            <td>50%</td>
+            <td><span style="color: #32CD32;">$1.50</span></td>
+            <td><span style="color: #32CD32;">$6.00</span></td>
+            <td><span style="color: #32CD32;">50%</span></td>
         </tr>
         <tr style="background-color: #f8f9fa;">
             <td><span style="color: red">o3-mini</span></td>
-            <td>$1.10</td>
-            <td>$4.40</td>
-            <td>50%</td>
+            <td><span style="color: #32CD32;">$1.10</span></td>
+            <td><span style="color: #32CD32;">$4.40</span></td>
+            <td><span style="color: #32CD32;">50%</span></td>
         </tr>
         <!-- Anthropic Models -->
         <tr style="background-color: #f8f9fa;">
             <td rowspan="2"><strong>Anthropic (ClaudeAI)</strong></td>
             <td><span style="color: red">claude-3.7-sonnet</span></td>
-            <td>$1.50</td>
-            <td>$7.50</td>
-            <td>50%</td>
+            <td><span style="color: #32CD32;">$1.50</span></td>
+            <td><span style="color: #32CD32;">$7.50</span></td>
+            <td><span style="color: #32CD32;">50%</span></td>
         </tr>
         <tr style="background-color: #f8f9fa;">
             <td><span style="color: red">claude-3.5-sonnet</span></td>
-            <td>$1.50</td>
-            <td>$7.50</td>
-            <td>50%</td>
+            <td><span style="color: #32CD32;">$1.50</span></td>
+            <td><span style="color: #32CD32;">$7.50</span></td>
+            <td><span style="color: #32CD32;">50%</span></td>
         </tr>
         <!-- Deepseek Models -->
         <tr style="background-color: #f8f9fa;">
-            <td rowspan="3"><strong>DeepSeek</strong></td>
+            <td rowspan="2"><strong>DeepSeek</strong></td>
             <td><span style="color: red">deepseek-chat</span></td>
             <td>$0.27</td>
             <td>$1.10</td>
@@ -102,31 +116,25 @@ Chúng mình có thể cung cấp gần như tất các loại model AI hiện n
             <td>$2.19</td>
             <td>-</td>
         </tr>
-            <tr style="background-color: #f8f9fa;">
-            <td><span style="color: red">deepseek-websearch</span></td>
-            <td>$1.43</td>
-            <td>$5.72</td>
-            <td>new</td>
-        </tr>
         <!-- Grok Models -->
         <tr style="background-color: #f8f9fa;">
             <td rowspan="3"><strong>xAI</strong></td>
             <td><span style="color: red">grok-3</span></td>
-            <td>$1.50</td>
-            <td>$7.50</td>
-            <td>50%</td>
+            <td><span style="color: #32CD32;">$1.50</span></td>
+            <td><span style="color: #32CD32;">$7.50</span></td>
+            <td><span style="color: #32CD32;">50%</span></td>
         </tr>
         <tr style="background-color: #f8f9fa;">
             <td><span style="color: red">grok-3-deepsearch</span></td>
-            <td>$1.50</td>
-            <td>$7.50</td>
-            <td>new</td>
+            <td><span>$1.50</span></td>
+            <td><span>$7.50</span></td>
+            <td>(new)</td>
         </tr>
             <tr style="background-color: #f8f9fa;">
             <td><span style="color: red">grok-3-reasoner</span></td>
-            <td>$1.50</td>
-            <td>$7.50</td>
-            <td>50%</td>
+            <td><span style="color: #32CD32;">$1.50</span></td>
+            <td><span style="color: #32CD32;">$7.50</span></td>
+            <td><span style="color: #32CD32;">50%</span></td>
         </tr>
     </tbody>
 
@@ -135,8 +143,9 @@ Chúng mình có thể cung cấp gần như tất các loại model AI hiện n
 > **Lưu ý:**
 >
 > - Nếu các bạn có nhu cầu sử dụng model khác ngoài danh sách trên vui lòng liên hệ admin
+> - Các models "exp" là những model do các nhà cung cấp cho phép user thử nghiệm free. Điều này có thể thay đổi trong tương lai
 
 > **Thông tin thêm về Model "itmovnteam"**
 >
-> - `itmovnteam` là model AI được tổng hợp bởi **ITMOvnteam**, tích hợp các models từ nhiều Provider khác nhau. Nhờ quỹ API được đóng góp từ cộng đồng và một số kĩ thuật reverse API nên chúng mình mới có để triển khai **miễn phí** model này cho mọi người. `itmovnteam` có hiệu suất tốt, độ ổn định cao và có khả năng phân tích hình ảnh.
+> - `itmovnteam` là model AI được tổng hợp bởi **ITMOvnteam**, tích hợp các models từ nhiều Provider khác nhau. Nhờ quỹ API được đóng góp từ cộng đồng và một số kĩ thuật reverse API nên chúng mình mới có thể triển khai **MIỄN PHÍ** model này cho mọi người. `itmovnteam` có hiệu suất tốt, độ ổn định cao và có khả năng phân tích hình ảnh.
 > - Để đảm bảo an toàn hệ thống, tài khoản có hành vi lạm dụng spam model khi bị phát hiện sẽ bị ban vĩnh viễn
