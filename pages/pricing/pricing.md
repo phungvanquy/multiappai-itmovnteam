@@ -106,15 +106,15 @@ Chúng mình có thể cung cấp gần như tất các loại model AI hiện n
         <tr style="background-color: #f8f9fa;">
             <td rowspan="2"><strong>DeepSeek</strong></td>
             <td><span style="color: red">deepseek-chat</span></td>
-            <td>$0.27</td>
-            <td>$1.10</td>
-            <td>-</td>
+            <td>Free</td>
+            <td>Free</td>
+            <td>(test)</td>
         </tr>
         <tr style="background-color: #f8f9fa;">
             <td><span style="color: red">deepseek-reasoner</span></td>
-            <td>$0.55</td>
-            <td>$2.19</td>
-            <td>-</td>
+            <td>Free</td>
+            <td>Free</td>
+            <td>(test)</td>
         </tr>
         <!-- Grok Models -->
         <tr style="background-color: #f8f9fa;">
@@ -143,7 +143,7 @@ Chúng mình có thể cung cấp gần như tất các loại model AI hiện n
 > **Lưu ý:**
 >
 > - Nếu các bạn có nhu cầu sử dụng model khác ngoài danh sách trên vui lòng liên hệ admin
-> - Các models "exp" là những model do các nhà cung cấp cho phép user thử nghiệm free. Điều này có thể thay đổi trong tương lai
+> - Các models (test) là những model do các nhà cung cấp cho phép user thử nghiệm free. Điều này có thể thay đổi trong tương lai
 
 > **Thông tin thêm về Model "itmovnteam"**
 >
