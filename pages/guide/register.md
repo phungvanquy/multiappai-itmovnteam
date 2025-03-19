@@ -6,21 +6,21 @@
 
 1. **Đăng ký tài khoản**
 
-   - Truy cập [form đăng ký](https://forms.gle/knjWfYPLjtVVLR8Z9)
-   - Điền đầy đủ thông tin cá nhân theo yêu cầu
-   - Gửi form và chờ phản hồi từ đội ngũ admin
+   - Truy cập [form đăng ký](https://forms.gle/knjWfYPLjtVVLR8Z9).
+   - Điền đầy đủ thông tin cá nhân theo yêu cầu.
+   - Gửi form và chờ phản hồi từ đội ngũ hỗ trợ.
 
 2. **Bắt đầu sử dụng**
-   - Sau khi nhận được API key từ admin, các bạn có thể sử dụng nó để tích hợp vào ứng dụng mong muốn [->Apps tương thích](#cac-ung-dung-tuong-thich)
-   - Thông thường các ứng dụng hiện nay yêu cầu 2 thông tin chính để có thể tích hợp custom API đó là: `API_KEY` và `BASE_URL`.
-
-> `API_KEY` sẽ có dạng: `sk-proj-1234567890...`
->
-> `BASE_URL` sẽ có dạng: `https://multiappai-api.itmovnteam.com/v1` hoặc `https://multiappai-api.itmovnteam.com`
+   - Sau khi đăng ký thành công, bạn sẽ nhận được **API Key** từ đội ngũ admin.
+   - API Key có thể được tích hợp vào các ứng dụng tương thích. Để tích hợp, bạn cần hai thông tin:
+      > - **API_KEY**: Ví dụ, `sk-proj-1234567890...`
+      >
+      > - **BASE_URL**: Ví dụ, `https://multiappai-api.itmovnteam.com/v1` hoặc `https://multiappai-api.itmovnteam.com`.
 
 3. **Theo dõi mức sử dụng và trạng thái hoạt động các model**
-   - Model AI sẽ có 2 loại: **Free** và **Trả phí** ([xem giá chi tiết](/pages/pricing/pricing)). Để theo dõi mức sử dụng và số dư tài khoản hoặc nạp tiền, các bạn có thể xem [tại đây](/pages/pricing/recharged)
-   - Để theo dõi trạng thái hoạt động của các model, các bạn có thể xem [tại đây](/pages/guide/modelstatus)
+   - **Loại model**: MultiAppAi cung cấp hai loại model: **Miễn phí** và **Trả phí**. Chi tiết về giá cả có thể xem [tại đây](/pages/pricing/pricing).
+   - **Mức sử dụng**: Để kiểm tra số dư tài khoản hoặc nạp thêm tiền, truy cập [tại đây](/pages/pricing/recharged).
+   - **Trạng thái hoạt động**: Theo dõi trạng thái các model [tại đây](/pages/guide/modelstatus).
 
 ## Các ứng dụng tương thích
 
@@ -38,4 +38,11 @@ Một vài ứng dụng phổ biến như:
 
 ## WebChatAI - ITMOvnteam
 
-Chúng mình cung cấp trang web chatbox riêng tại [aichat.itmovnteam.com](https://aichat.itmovnteam.com). Mọi người có thể sử dụng **API key** của mình trên ứng dụng này một cách thuận tiện.
+Chúng mình cung cấp trang Webchat riêng tại [aichat.itmovnteam.com](https://aichat.itmovnteam.com). Mọi người có thể sử dụng **API key** của mình trên ứng dụng này một cách thuận tiện.
+
+
+## Mẹo tiết kiệm tokens
+
+Để tối ưu hóa việc sử dụng tokens, bạn có thể tham khảo các mẹo tại [đây](https://github.com/itmovnteam/multiappai-compatible-apps/blob/main/Tips.md). 
+
+Chúc bạn sử dụng dịch vụ hiệu quả!

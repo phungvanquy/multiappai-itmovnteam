@@ -26,7 +26,7 @@ export default defineConfig({
       {
         text: "Hướng dẫn sử dụng",
         items: [
-          { text: "Đăng kí & Sử dụng", link: "/pages/guide/register" },
+          { text: "Đăng kí & Hướng dẫn Sử dụng", link: "/pages/guide/register" },
           {
             text: "Theo dõi trạng thái hoạt động",
             link: "/pages/guide/modelstatus",
