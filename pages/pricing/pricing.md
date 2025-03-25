@@ -50,7 +50,7 @@ Chúng mình có thể cung cấp gần như tất các loại model AI hiện n
         </tr>
         <!-- Google Models -->
         <tr style="background-color: #f8f9fa;">
-            <td rowspan="2"><strong>Google</strong></td>
+            <td rowspan="3"><strong>Google</strong></td>
             <td><span style="color: red">gemini-2.0-flash-exp</span></td>
             <td>Free</td>
             <td>Free</td>
@@ -58,6 +58,12 @@ Chúng mình có thể cung cấp gần như tất các loại model AI hiện n
         </tr>
         <tr style="background-color: #f8f9fa;">
             <td><span style="color: red">gemini-2.0-pro-exp</span></td>
+            <td>Free</td>
+            <td>Free</td>
+            <td>(test)</td>
+        </tr>
+            <tr style="background-color: #f8f9fa;">
+            <td><span style="color: red">gemini-2.5-pro-exp</span></td>
             <td>Free</td>
             <td>Free</td>
             <td>(test)</td>
