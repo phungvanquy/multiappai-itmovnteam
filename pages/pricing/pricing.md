@@ -42,15 +42,21 @@ Chúng mình có thể cung cấp gần như tất các loại model AI hiện n
     <tbody>
         <!-- ITMOvnteam Models -->
         <tr style="background-color: #f8f9fa;">
-            <td rowspan="1"><strong>ITMOvnteam</strong></td>
+            <td rowspan="2"><strong>ITMOvnteam</strong></td>
             <td><span style="color: red">itmovnteam</span></td>
+            <td>Free</td>
+            <td>Free</td>
+            <td>-</td>
+        </tr>
+            <tr style="background-color: #f8f9fa;">
+            <td><span style="color: red">itmovnteam-thinking</span></td>
             <td>Free</td>
             <td>Free</td>
             <td>-</td>
         </tr>
         <!-- Google Models -->
         <tr style="background-color: #f8f9fa;">
-            <td rowspan="3"><strong>Google</strong></td>
+            <td rowspan="4"><strong>Google</strong></td>
             <td><span style="color: red">gemini-2.0-flash-exp</span></td>
             <td>Free</td>
             <td>Free</td>
@@ -62,7 +68,13 @@ Chúng mình có thể cung cấp gần như tất các loại model AI hiện n
             <td>Free</td>
             <td>(test)</td>
         </tr>
-            <tr style="background-color: #f8f9fa;">
+        <tr style="background-color: #f8f9fa;">
+            <td><span style="color: red">gemini-2.5-flash-preview</span></td>
+            <td>Free</td>
+            <td>Free</td>
+            <td>(test)</td>
+        </tr>
+        <tr style="background-color: #f8f9fa;">
             <td><span style="color: red">gemini-2.5-pro-exp</span></td>
             <td>Free</td>
             <td>Free</td>
