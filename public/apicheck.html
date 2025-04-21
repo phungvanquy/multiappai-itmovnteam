@@ -262,7 +262,7 @@
             const resetFadeOut = () => {
               clearTimeout(fadeOutTimeout);
               element.classList.remove("fade-out");
-              fadeOutTimeout = setTimeout(fadeOut, 10000);
+              fadeOutTimeout = setTimeout(fadeOut, 60000);
             };
             element.addEventListener("mouseenter", () => {
               clearTimeout(fadeOutTimeout);
