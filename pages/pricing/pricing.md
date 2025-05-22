@@ -75,10 +75,10 @@ Chúng mình có thể cung cấp gần như tất các loại model AI hiện n
             <td>(test)</td>
         </tr>
         <tr style="background-color: #f8f9fa;">
-            <td><span style="color: red">gemini-2.5-pro-exp</span></td>
-            <td>Free</td>
-            <td>Free</td>
-            <td>(test)</td>
+            <td><span style="color: red">gemini-2.5-pro-preview-05-06</span></td>
+            <td>$0.625</td>
+            <td>$1.25</td>
+            <td>50%</td>
         </tr>
         <!-- OpenAI Models -->
         <tr style="background-color: #f8f9fa;">
@@ -126,7 +126,13 @@ Chúng mình có thể cung cấp gần như tất các loại model AI hiện n
         </tr>
         <!-- Anthropic Models -->
         <tr style="background-color: #f8f9fa;">
-            <td rowspan="2"><strong>Anthropic (ClaudeAI)</strong></td>
+            <td rowspan="3"><strong>Anthropic (ClaudeAI)</strong></td>
+            <td><span style="color: red">claude-sonnet-4</span></td>
+            <td><span style="color: #32CD32;">$1.50</span></td>
+            <td><span style="color: #32CD32;">$7.50</span></td>
+            <td><span style="color: #32CD32;">50%</span></td>
+        </tr>
+        <tr style="background-color: #f8f9fa;">
             <td><span style="color: red">claude-3.7-sonnet</span></td>
             <td><span style="color: #32CD32;">$1.50</span></td>
             <td><span style="color: #32CD32;">$7.50</span></td>
