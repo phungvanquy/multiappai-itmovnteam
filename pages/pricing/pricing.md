@@ -76,9 +76,9 @@ Chúng mình có thể cung cấp gần như tất các loại model AI hiện n
         </tr>
         <tr style="background-color: #f8f9fa;">
             <td><span style="color: red">gemini-2.5-pro-preview-05-06</span></td>
-            <td>$0.625</td>
-            <td>$1.25</td>
-            <td>50%</td>
+            <td><span style="color: #32CD32;">$0.625</span></td>
+            <td><span style="color: #32CD32;">$1.25</span></td>
+            <td><span style="color: #32CD32;">50%</span></td>
         </tr>
         <!-- OpenAI Models -->
         <tr style="background-color: #f8f9fa;">
