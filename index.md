@@ -10,7 +10,7 @@ hero:
     src: "/icons/ai.svg"
   actions:
     - theme: brand
-      text: 📕 Giới thiệu & Hướng dẫn
+      text: 📕 Giới thiệu
       link: /pages/intro/intro
     - theme: brand
       text: 🔔 Đăng kí
@@ -28,8 +28,8 @@ hero:
       text: 💬 WebChatAI - ITMOvnteam
       link: https://aichat.itmovnteam.com
     - theme: alt
-      text: 🎮 Ứng dụng tương thích
-      link: /pages/guide/register.html#cac-ung-dung-tuong-thich
+      text: 📖 API Reference
+      link: /pages/guide/API_Reference
 
 features:
   - title: Trending
