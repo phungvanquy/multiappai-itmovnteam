@@ -25,18 +25,12 @@ Retrieve a list of available AI models supported by the API.
 
 `GET /models`
 
-### Request
+### Request Example
 
 ```bash
 curl https://multiappai-api.itmovnteam.com/v1/models \
    -H "Authorization: Bearer $API_KEY"
 ```
-
-### Response
-
-*(Response example not provided in the original text)*
-
----
 
 ## 2. Chat Completions
 
