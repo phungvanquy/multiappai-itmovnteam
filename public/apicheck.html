@@ -523,7 +523,7 @@
           </div>
         `;
           userInfoDiv.classList.add('show');
-          startFadeOutTimer(userInfoDiv);
+          // startFadeOutTimer(userInfoDiv); (bỏ làm mờ bảng sau 1 khoảng thời gian)
           turnstile.reset();
           preloadCaptcha();
 
@@ -534,7 +534,7 @@
         } catch (error) {
           userInfoDiv.innerHTML = `<div class="error-message"><i class="fa fa-triangle-exclamation"></i> ${error.message}</div>`;
           userInfoDiv.classList.add('show');
-          startFadeOutTimer(userInfoDiv);
+          // startFadeOutTimer(userInfoDiv); (bỏ làm mờ bảng sau 1 khoảng thời gian)
         }
       });
     </script>
