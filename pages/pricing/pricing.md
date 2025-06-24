@@ -57,27 +57,27 @@ Chúng mình có thể cung cấp gần như tất các loại model AI hiện n
         <!-- Google Models -->
         <tr style="background-color: #f8f9fa;">
             <td rowspan="4"><strong>Google</strong></td>
-            <td><span style="color: red">gemini-2.0-flash-exp</span></td>
-            <td>Free</td>
-            <td>Free</td>
-            <td>(test)</td>
+            <td><span style="color: red">gemini-2.0-flash</span></td>
+            <td>$0.15</td>
+            <td>$1.25</td>
+            <td><span style="color: #32CD32;">50%</span></td>
         </tr>
         <tr style="background-color: #f8f9fa;">
-            <td><span style="color: red">gemini-2.0-pro-exp</span></td>
-            <td>Free</td>
-            <td>Free</td>
-            <td>(test)</td>
-        </tr>
-        <tr style="background-color: #f8f9fa;">
-            <td><span style="color: red">gemini-2.5-flash-preview</span></td>
-            <td>Free</td>
-            <td>Free</td>
-            <td>(test)</td>
-        </tr>
-        <tr style="background-color: #f8f9fa;">
-            <td><span style="color: red">gemini-2.5-pro-preview-05-06</span></td>
+            <td><span style="color: red">gemini-2.0-pro</span></td>
             <td><span style="color: #32CD32;">$0.625</span></td>
-            <td><span style="color: #32CD32;">$1.25</span></td>
+            <td><span style="color: #32CD32;">$5.00</span></td>
+            <td><span style="color: #32CD32;">50%</span></td>
+        </tr>
+        <tr style="background-color: #f8f9fa;">
+            <td><span style="color: red">gemini-2.5-flash</span></td>
+            <td>$0.15</td>
+            <td>$1.25</td>
+            <td><span style="color: #32CD32;">50%</span></td>
+        </tr>
+        <tr style="background-color: #f8f9fa;">
+            <td><span style="color: red">gemini-2.5-pro</span></td>
+            <td><span style="color: #32CD32;">$0.625</span></td>
+            <td><span style="color: #32CD32;">$5.00</span></td>
             <td><span style="color: #32CD32;">50%</span></td>
         </tr>
         <!-- OpenAI Models -->
