@@ -58,8 +58,8 @@ Chúng mình có thể cung cấp gần như tất các loại model AI hiện n
         <tr style="background-color: #f8f9fa;">
             <td rowspan="4"><strong>Google</strong></td>
             <td><span style="color: red">gemini-2.0-flash</span></td>
-            <td>$0.15</td>
-            <td>$1.25</td>
+            <td><span style="color: #32CD32;">$0.15</span></td>
+            <td><span style="color: #32CD32;">$1.25</span></td>
             <td><span style="color: #32CD32;">50%</span></td>
         </tr>
         <tr style="background-color: #f8f9fa;">
@@ -70,8 +70,8 @@ Chúng mình có thể cung cấp gần như tất các loại model AI hiện n
         </tr>
         <tr style="background-color: #f8f9fa;">
             <td><span style="color: red">gemini-2.5-flash</span></td>
-            <td>$0.15</td>
-            <td>$1.25</td>
+            <td><span style="color: #32CD32;">$0.15</span></td>
+            <td><span style="color: #32CD32;">$1.25</span></td>
             <td><span style="color: #32CD32;">50%</span></td>
         </tr>
         <tr style="background-color: #f8f9fa;">
