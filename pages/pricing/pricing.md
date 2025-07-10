@@ -160,11 +160,17 @@ Chúng mình có thể cung cấp gần như tất các loại model AI hiện n
         </tr>
         <!-- Grok Models -->
         <tr style="background-color: #f8f9fa;">
-            <td rowspan="3"><strong>xAI</strong></td>
+            <td rowspan="4"><strong>xAI</strong></td>
+            <td><span style="color: red">grok-4</span></td>
+            <td><span style="color: #32CD32;">$1.20</span></td>
+            <td><span style="color: #32CD32;">$6.00</span></td>
+            <td><span style="color: #32CD32;">60%</span></td>
+        </tr>
+        <tr style="background-color: #f8f9fa;">
             <td><span style="color: red">grok-3</span></td>
-            <td><span style="color: #32CD32;">$1.50</span></td>
-            <td><span style="color: #32CD32;">$7.50</span></td>
-            <td><span style="color: #32CD32;">50%</span></td>
+            <td><span>$1.20</span></td>
+            <td><span>$6.00</span></td>
+            <td>(new)</td>
         </tr>
         <tr style="background-color: #f8f9fa;">
             <td><span style="color: red">grok-3-deepsearch</span></td>
@@ -172,7 +178,7 @@ Chúng mình có thể cung cấp gần như tất các loại model AI hiện n
             <td><span>$7.50</span></td>
             <td>(new)</td>
         </tr>
-            <tr style="background-color: #f8f9fa;">
+        <tr style="background-color: #f8f9fa;">
             <td><span style="color: red">grok-3-reasoner</span></td>
             <td><span style="color: #32CD32;">$1.50</span></td>
             <td><span style="color: #32CD32;">$7.50</span></td>
